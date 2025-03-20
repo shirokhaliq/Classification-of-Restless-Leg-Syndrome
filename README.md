@@ -11,8 +11,6 @@ This project focuses on classifying Restless Leg Syndrome (RLS) to assist in anx
 - [Features](#features)
 - [Machine Learning Models](#machine-learning-models)
 - [Results](#results)
-- [How to Run](#how-to-run)
-- [Project Structure](#project-structure)
 - [Future Work](#future-work)
 - [References](#references)
 
@@ -76,7 +74,4 @@ Evaluation Metrics:
 - Exploration of deep learning models (e.g., CNN, LSTM)
 - Real-time deployment on wearable devices for anxiety monitoring
 - Incorporate multimodal physiological data (heart rate, ECG)
-
-## References
-- Full reference list can be found in the `FinalReport.pdf` or `references/` folder.
 
